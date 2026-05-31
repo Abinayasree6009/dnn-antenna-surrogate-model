@@ -7,7 +7,7 @@ A Deep Neural Network surrogate model that predicts antenna S11 performance in r
 👉 https://huggingface.co/spaces/ai-antenna-design-tool/ai-antenna-design-tool
 
 ## Results
-- Model Accuracy: R² = 0.94
+- Model Accuracy: R² = 0.95
 - Best S11 achieved: -44.62 dB
 - Dataset: 4,60,460 samples from 460 CST simulations
 
