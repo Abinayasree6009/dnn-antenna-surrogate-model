@@ -37,8 +37,6 @@ A Deep Neural Network surrogate model that predicts antenna S11 performance in r
 - CST Studio Suite
 - HuggingFace Spaces (deployment)
 
-## 👩‍💻 Author
+## Author
   R.J. Abinaya Sree — M.E. Communication Systems, 
   Government College of Engineering, Tirunelveli
-R.J. Abinaya Sree — M.E. Communication Systems,
-GCE Tirunelveli
